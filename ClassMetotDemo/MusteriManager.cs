@@ -13,6 +13,9 @@ public class MusteriManager
    public void Listed(Musteri musteri)
    {
        Console.WriteLine("Musteri Listelendi:" + musteri.FirstName + " " + musteri.LastName);
+       
    }
+
+
 
 }
